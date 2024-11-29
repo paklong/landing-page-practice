@@ -1,1 +1,35 @@
+body {
+    font-family: 'Roboto', sans-serif; 
+    margin: 0 auto;
+    width: 70%;
+    padding: 0;
+}
 
+.header, .footer {
+    background-color: #1F2937;
+}
+
+
+
+.header {
+    display: flex;
+    gap: 20px;
+    padding: 5px 100px;
+    align-items: center;
+}
+
+.header img {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.header a {
+    font-size: 18px;
+    color: #E5E7E8;
+    text-decoration: none;
+}
+
+.first-link{
+    margin-left: auto;
+}
