@@ -1,0 +1,1 @@
+This is a practice project for creating a landing page using only html and css
